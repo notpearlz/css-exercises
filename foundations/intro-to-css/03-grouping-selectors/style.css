@@ -1,0 +1,18 @@
+
+.clickmeone{
+    background-color: #000000;
+    color: #eeeeee;
+}
+.clickmetwo{
+    background-color: #efe30c;
+}
+
+.clickmeone,
+.clickmetwo
+{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+
+
